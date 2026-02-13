@@ -23,10 +23,5 @@ This repository contains my practice work, notes, and projects while learning a 
 
 This repository tracks my progress as I build strong fundamentals in Data Science and work on real-world projects.
 
-## 🎯 Goal
-
-To become industry-ready in Data Science, Machine Learning, and AI by practicing hands-on projects and structured learning.
-
----
 
 ✨ Consistency + Practice + Projects
